@@ -1,0 +1,52 @@
+body {
+    font-family: "Verdana";
+    background-color: black;
+    width: 1280px;
+    height: 1938px;
+    margin: 0 auto;
+}
+
+.header {
+    
+    font-size: 50px;
+    font-weight: normal;
+    color: white;
+    text-align: center;
+}
+
+.download {
+    text-align: center;
+}
+
+.download a{
+    Font-size: 16px;
+    color: aquamarine;  
+}
+
+.video {
+    object-fit: contain;
+    text-align: center;
+}
+
+.text {
+    font-weight:300;
+    font-size: 42px;
+    color: white;
+    text-align: center;
+}
+
+.untertitel {
+    font-size: 21px;
+    color: gray;
+    text-align:center;
+}
+
+.bild {
+    text-align: center;
+    padding-top: 20px;
+}
+
+footer {
+    color: gray;
+    text-align: right;
+}
